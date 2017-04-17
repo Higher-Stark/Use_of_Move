@@ -1,0 +1,104 @@
+1-------------------------------------
+In MemoryBlock(size_t).length = 10.
+Move initialize
+In MemoryBlock(const MemoryBlock&).length = 0.copy resource
+In MemoryBlock(const MemoryBlock&).length = 0.copy resource
+In MemoryBlock(const MemoryBlock&).length = 0.copy resource
+In MemoryBlock(const MemoryBlock&).length = 0.copy resource
+In MemoryBlock(const MemoryBlock&).length = 0.copy resource
+In MemoryBlock(const MemoryBlock&).length = 0.copy resource
+In MemoryBlock(const MemoryBlock&).length = 0.copy resource
+In MemoryBlock(const MemoryBlock&).length = 0.copy resource
+In MemoryBlock(const MemoryBlock&).length = 0.copy resource
+In MemoryBlock(const MemoryBlock&).length = 0.copy resource
+In MemoryBlock(const MemoryBlock&).length = 0.copy resource
+In MemoryBlock(const MemoryBlock&).length = 0.copy resource
+In MemoryBlock(const MemoryBlock&).length = 0.copy resource
+In MemoryBlock(const MemoryBlock&).length = 0.copy resource
+In MemoryBlock(const MemoryBlock&).length = 0.copy resource
+In ~MemoryBlock().length = 0.
+In ~MemoryBlock().length = 0.
+In ~MemoryBlock().length = 0.
+In ~MemoryBlock().length = 0.
+In ~MemoryBlock().length = 0.
+In ~MemoryBlock().length = 0.
+In ~MemoryBlock().length = 0.
+In ~MemoryBlock().length = 0.
+In ~MemoryBlock().length = 0.
+In ~MemoryBlock().length = 0.
+In ~MemoryBlock().length = 0.
+In ~MemoryBlock().length = 0.
+In ~MemoryBlock().length = 0.
+In ~MemoryBlock().length = 0.
+In ~MemoryBlock().length = 0.
+In ~MemoryBlock().length = 0.
+2-------------------------------------
+In MemoryBlock(size_t).length = 22.
+Move initialize
+In ~MemoryBlock().length = 0.
+3-------------------------------------
+In MemoryBlock(size_t).length = 3.
+4-------------------------------------
+In MemoryBlock(const MemoryBlock&).length = 3.copy resource
+5-------------------------------------
+In MemoryBlock(const MemoryBlock&).length = 3.copy resource
+6-------------------------------------
+In MemoryBlock(size_t).length = 4.
+In MemoryBlock(const MemoryBlock&).length = 4.copy resource
+In MemoryBlock(const MemoryBlock&).length = 4.copy resource
+In MemoryBlock(const MemoryBlock&).length = 4.copy resource
+In MemoryBlock(const MemoryBlock&).length = 4.copy resource
+In MemoryBlock(const MemoryBlock&).length = 4.copy resource
+In MemoryBlock(const MemoryBlock&).length = 4.copy resource
+In MemoryBlock(const MemoryBlock&).length = 4.copy resource
+In MemoryBlock(const MemoryBlock&).length = 4.copy resource
+In ~MemoryBlock().length = 4.Delete source
+7-------------------------------------
+In MemoryBlock(size_t).length = 5.
+8-------------------------------------
+In MemoryBlock(const MemoryBlock&).length = 3.copy resource
+9-------------------------------------
+In MemoryBlock(size_t).length = 7.
+10------------------------------------
+In &operator=(const MemoryBlock&).length = 3.Copy source
+11------------------------------------
+In MemoryBlock(size_t).length = 66.
+Move initialize
+In ~MemoryBlock().length = 0.
+12------------------------------------
+Move operator=
+13------------------------------------
+Do these make any sense?
+**************************************
+In ~MemoryBlock().length = 0.
+In ~MemoryBlock().length = 7.Delete source
+In ~MemoryBlock().length = 7.Delete source
+In ~MemoryBlock().length = 5.Delete source
+In ~MemoryBlock().length = 4.Delete source
+In ~MemoryBlock().length = 4.Delete source
+In ~MemoryBlock().length = 4.Delete source
+In ~MemoryBlock().length = 4.Delete source
+In ~MemoryBlock().length = 4.Delete source
+In ~MemoryBlock().length = 4.Delete source
+In ~MemoryBlock().length = 4.Delete source
+In ~MemoryBlock().length = 4.Delete source
+In ~MemoryBlock().length = 3.Delete source
+In ~MemoryBlock().length = 66.Delete source
+In ~MemoryBlock().length = 0.Delete source
+In ~MemoryBlock().length = 0.Delete source
+In ~MemoryBlock().length = 0.Delete source
+In ~MemoryBlock().length = 0.Delete source
+In ~MemoryBlock().length = 0.Delete source
+In ~MemoryBlock().length = 0.Delete source
+In ~MemoryBlock().length = 0.Delete source
+In ~MemoryBlock().length = 0.Delete source
+In ~MemoryBlock().length = 0.Delete source
+In ~MemoryBlock().length = 0.Delete source
+In ~MemoryBlock().length = 0.Delete source
+In ~MemoryBlock().length = 0.Delete source
+In ~MemoryBlock().length = 0.Delete source
+In ~MemoryBlock().length = 0.Delete source
+In ~MemoryBlock().length = 0.Delete source
+In ~MemoryBlock().length = 10.Delete source
+In ~MemoryBlock().length = 22.Delete source
+In ~MemoryBlock().length = 3.Delete source
